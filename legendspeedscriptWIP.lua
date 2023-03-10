@@ -1,5 +1,4 @@
---im not paying for moonsec lol, well done for deobfuscating this
-
+--obfuscation doesnt work, have fun skidding this script!
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Legends Of Speed Script", "DarkTheme")
 
